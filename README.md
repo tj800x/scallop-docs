@@ -4,7 +4,7 @@ Comprehensive documentation for [Scallop](https://github.com/scallop-lang/scallo
 
 ## 📖 View Documentation
 
-**Live Documentation**: [https://[username].github.io/scallop-docs/](https://[username].github.io/scallop-docs/) *(update after deployment)*
+**Live Documentation**: [https://tj800x.github.io/scallop-docs/](https://tj800x.github.io/scallop-docs/)
 
 ## 📚 What's Inside
 
@@ -71,7 +71,7 @@ All examples compile and run successfully (verified 2026-01-13).
 ### Build and Serve
 ```bash
 # Clone the repository
-git clone https://github.com/[username]/scallop-docs.git
+git clone https://github.com/tj800x/scallop-docs.git
 cd scallop-docs
 
 # Build the book
