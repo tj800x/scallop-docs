@@ -1,0 +1,20 @@
+# mdBook build output
+book/
+
+# macOS
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Rust build artifacts (in examples)
+examples/rust/*/target/
+examples/rust/*/Cargo.lock
+
+# Backup files
+*.bak
+*.tmp

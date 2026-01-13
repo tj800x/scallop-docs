@@ -1,0 +1,7 @@
+[package]
+name = "complex_reasoning"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+scallop-core = { path = "../../../core" }

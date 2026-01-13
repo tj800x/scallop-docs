@@ -1,0 +1,7 @@
+[package]
+name = "test_stdlib_ff"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+scallop-core = { path = "../../../core" }
