@@ -110,7 +110,11 @@ scallop-docs/
 
 ## ⚖️ License
 
-This documentation follows the same license as the main Scallop project. See the [main repository](https://github.com/scallop-lang/scallop) for license details.
+This documentation repository is licensed under the MIT License, the same as the main Scallop project.
+
+**Copyright (c) 2023 Ziyang Li**
+
+This repository includes documentation and examples derived from the [Scallop project](https://github.com/scallop-lang/scallop), which is licensed under the MIT License. See the [LICENSE](LICENSE) file for full details.
 
 ## 🤝 Contributing
 
